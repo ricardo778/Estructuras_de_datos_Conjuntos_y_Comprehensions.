@@ -680,3 +680,22 @@ Este programa crea un diccionario donde las claves son palabras únicas de un te
 Abrir la terminal en la carpeta src/comprehensions.
 Ejecutar:
     python punto32.py
+
+**TALLERES**
+
+## Taller sobre Comprehensions
+
+Este programa demuestra el uso de tres tipos de comprehensions en Python: list comprehension, dict comprehension y set comprehension. A partir de una lista de palabras, realiza diferentes transformaciones mostrando la versatilidad y eficiencia de las comprehensions.
+
+## Lo que hace el programa:
+
+Convierte todas las palabras a mayúsculas usando list comprehension
+
+Crea un diccionario con las palabras como claves y sus longitudes como valores
+
+Extrae las primeras letras únicas de cada palabra usando set comprehension
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/talleres.
+Ejecutar:
+    python taller_comprehension.py
