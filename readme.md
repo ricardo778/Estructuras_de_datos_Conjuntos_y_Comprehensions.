@@ -699,3 +699,24 @@ Extrae las primeras letras únicas de cada palabra usando set comprehension
 Abrir la terminal en la carpeta src/talleres.
 Ejecutar:
     python taller_comprehension.py
+
+## Taller sobre Conjuntos en Python
+
+Este programa analiza datos de estudiantes usando operaciones de conjuntos. Define tres grupos de estudiantes por asignatura (matemáticas, física y programación) y realiza diferentes operaciones para encontrar estudiantes en común, exclusivos y únicos.
+
+## Lo que hace el programa:
+
+Define tres conjuntos de estudiantes por asignatura con algunos estudiantes en común
+
+Encuentra estudiantes que cursan las tres asignaturas
+
+Identifica estudiantes que cursan matemáticas y física pero no programación
+
+Encuentra estudiantes que solo cursan una asignatura
+
+Calcula el total de estudiantes únicos en todas las asignaturas
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/talleres.
+Ejecutar:
+    python taller_conjuntos.py
