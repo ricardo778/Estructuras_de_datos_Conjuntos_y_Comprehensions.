@@ -422,3 +422,261 @@ Este programa realiza operaciones combinadas entre conjuntos para encontrar elem
 Abrir la terminal en la carpeta src/conjuntos.
 Ejecutar:
     python punto54.py
+
+**COMPREHENSIONS**
+
+## Punto 1
+Este programa genera una lista con los cuadrados de los primeros 10 números (del 0 al 9) utilizando un enfoque tradicional con un bucle for. Muestra cómo se pueden crear listas mediante iteración y operaciones matemáticas.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto1.py
+
+## Punto 2
+Este programa crea una lista con los cuadrados de los números del 0 al 9 usando list comprehension, mostrando una forma más compacta y eficiente de generar listas en Python.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto2.py
+
+## Punto 3
+Este programa muestra dos formas de crear una lista con números pares del 0 al 9: primero con un bucle tradicional y luego con list comprehension, demostrando cómo filtrar elementos con condiciones.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto3.py
+
+## Punto 4
+Este programa convierte una lista de temperaturas en Celsius a Fahrenheit usando list comprehension, aplicando la fórmula de conversión directamente en la comprehension.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto4.py
+
+## Punto 5
+Este programa extrae solo los nombres de una lista de diccionarios de usuarios usando list comprehension, mostrando cómo acceder a valores específicos de estructuras complejas.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto5.py
+
+## Punto 6
+Este programa realiza dos operaciones diferentes con list comprehension: primero convierte palabras a mayúsculas y luego extrae la primera letra de cada palabra, mostrando la versatilidad de las comprehensions.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto6.py
+
+## Punto 7
+Este programa muestra dos ejemplos de filtrado con list comprehension: primero filtra números mayores a 5 y luego palabras que empiezan con 'a', demostrando cómo usar condiciones para seleccionar elementos específicos.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto7.py
+
+## Punto 8
+Este programa procesa datos de ventas usando list comprehension: primero calcula el valor total de ventas por producto y luego filtra los productos con ventas superiores a $1000, mostrando cómo trabajar con datos complejos.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto8.py
+
+## Punto 9
+Este programa crea un diccionario donde las claves son números y los valores son sus cuadrados correspondientes, usando un bucle for tradicional para construir el diccionario.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto9.py
+
+## Punto 10
+Este programa crea el mismo diccionario del punto anterior pero usando dict comprehension, mostrando una forma más compacta y eficiente de generar diccionarios en Python.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto10.py
+
+## Punto 11
+Este programa crea un diccionario con los cuadrados de números pares usando dos métodos: primero con un bucle tradicional y luego con dict comprehension, mostrando cómo filtrar elementos al construir diccionarios.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto11.py
+
+## Punto 12
+Este programa convierte los valores de un diccionario a mayúsculas usando dict comprehension, mostrando cómo transformar valores manteniendo las mismas claves.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto12.py
+
+## Punto 13
+Este programa invierte las claves y valores de un diccionario usando dict comprehension, intercambiando las claves por valores y viceversa.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto13.py
+
+## Punto 14
+Este programa muestra dos formas de crear un diccionario a partir de dos listas: una usando índices y otra usando la función zip, demostrando diferentes métodos para combinar listas en diccionarios.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto14.py
+
+## Punto 15
+Este programa filtra un diccionario de inventario manteniendo solo los productos que tienen stock disponible (cantidad mayor a 0), usando dict comprehension con condición.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto15.py
+
+## Punto 16
+Este programa extrae información específica de una lista de diccionarios de estudiantes, creando dos diccionarios diferentes: uno que mapea IDs a nombres y otro que mapea nombres a notas, usando dict comprehension.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto16.py
+
+## Punto 17
+Este programa crea un diccionario formateado a partir de datos de estudiantes, convirtiendo los nombres a mayúsculas y redondeando las notas, mostrando cómo aplicar transformaciones a los valores durante la creación del diccionario.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto17.py
+
+## Punto 18
+Este programa demuestra cómo contar la frecuencia de letras en una lista usando dict comprehension, mostrando tanto el comportamiento de sobrescritura como la solución usando conjuntos para evitar duplicados.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto18.py
+
+## Punto 19
+Este programa calcula el total de ventas por región a partir de datos de ventas, mostrando diferentes métodos: primero con un bucle tradicional, luego usando defaultdict para agrupamiento, y finalmente con dict comprehension para filtrar productos específicos.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto19.py
+
+## Punto 20
+Este programa crea un conjunto con los cuadrados de los números del 0 al 4 usando un bucle for tradicional, mostrando cómo construir conjuntos mediante iteración y operaciones matemáticas.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto20.py
+
+## Punto 21
+Este programa crea el mismo conjunto de cuadrados del punto anterior pero usando set comprehension, mostrando una forma más compacta y eficiente de generar conjuntos en Python.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto21.py
+
+## Punto 22
+Este programa elimina elementos duplicados de una lista convirtiéndola en un conjunto usando set comprehension, aprovechando la propiedad de unicidad de los conjuntos.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto22.py
+
+## Punto 23
+Este programa crea un conjunto con los cuadrados de números pares usando dos métodos: primero con un bucle tradicional y luego con set comprehension, mostrando cómo filtrar elementos al construir conjuntos.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto23.py
+
+## Punto 24
+Este programa obtiene las primeras letras únicas de una lista de palabras usando set comprehension, mostrando cómo extraer caracteres específicos y eliminar duplicados automáticamente.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto24.py
+
+## Punto 25
+Este programa extrae las vocales únicas de un texto usando set comprehension, mostrando cómo filtrar caracteres específicos y eliminar duplicados automáticamente.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto25.py
+
+## Punto 26
+Este programa obtiene las longitudes únicas de palabras en una lista usando set comprehension, mostrando cómo calcular propiedades de elementos y eliminar valores duplicados automáticamente.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto26.py
+
+## Punto 27
+Este programa crea un conjunto con los residuos únicos de dividir números entre 5 usando set comprehension, mostrando cómo aplicar operaciones matemáticas y obtener resultados sin duplicados.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto27.py
+
+## Punto 28
+Este programa realiza operaciones con conjuntos y aplica transformaciones matemáticas usando set comprehension, mostrando cómo combinar operaciones de conjuntos con cálculos numéricos.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto28.py
+
+## Punto 29
+Este programa analiza datos de compras de clientes usando set comprehension, extrayendo información específica como productos únicos, clientes que compraron un producto particular e iniciales de clientes.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto29.py
+
+## Punto 30
+Este programa elimina elementos duplicados de una lista manteniendo el orden original usando un truco con diccionarios, ya que los diccionarios preservan el orden de inserción en Python 3.7+.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto30.py
+
+## Punto 31
+Este programa demuestra la eficiencia de los conjuntos para verificar pertenencia de elementos comparado con las listas, especialmente con grandes volúmenes de datos.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto31.py
+
+## Punto 32
+Este programa crea un diccionario donde las claves son palabras únicas de un texto y los valores son sus longitudes, combinando set comprehension para eliminar duplicados y dict comprehension para construir el diccionario.
+
+## Cómo ejecutarlo
+Abrir la terminal en la carpeta src/comprehensions.
+Ejecutar:
+    python punto32.py
